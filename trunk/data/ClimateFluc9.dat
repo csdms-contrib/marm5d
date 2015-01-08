@@ -1,0 +1,14 @@
+Number of recoreds:
+11 50
+Simulation time(%);	Weathering rate change;Erosion rate change;Discharge change; Aeolian change
+10	1	1	1	0.65
+20	1	1	1	0.65	
+30	1	1	1	0.65
+40	1	1	1	1
+50	1	1	1	0.35	
+60	1	1	1	0.35
+70	1	1	1	0.35
+80	1	1	1	0.35	
+85	1	10	10	0.35
+90	1	10	10	0.35
+100	1	10	10	0.1

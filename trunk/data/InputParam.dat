@@ -1,0 +1,20 @@
+FlowAccumulation file name: area_d8_2m.txt                                                                   
+Slope file name: slope_dinf_2m.txt                                                            
+FlowDir file name: flowdir_2m.txt                                                                  
+Number of Iterations: 80000
+Size of time steps: 10000
+Discharge(Q[m^3/iter]: 0.0000055
+Weathering rate(alpha): 0.00000525
+Aeolian deposition rate: 0.000005
+Soil Creep Rate [cm/ye]: 0.5
+Number of profile layers: 20
+Depth of each profile layer(cm): 10.00000
+Depth of armour layer layer(cm): 0.50000
+Erodibility value (k): 0.025
+Weathering break in two proportion: 0.5
+Model mode(0-Pure;1-Exp;2-Hump;3-WI;4-WI+Exp;5-IW+Hump;6-Pure-Exp;7-Pure-Hump;
+8-RevExpo;9-Pure-RevExpo;10-BR:expo,soil:RevExpo;11-BR:Hump,Soil:RevExpo): 2
+Use climate fluctuations file?(1-Yes; 0-No): 1
+Climate fluctuations file name: ClimateFluc_Lehavim_sc7.1.dat
+Soil grading file name: S7_init_grading_hr.dat
+Aeolian grading file name: Aeolian_Dep_Cruvi_Stanley_hr.dat
